@@ -1,5 +1,5 @@
 {
-    "name": "akamai-open/edgegrid-client",
+    "name": "boudewijn00/edgegrid",
     "description": "Implements the Akamai {OPEN} EdgeGrid Authentication specified by https://developer.akamai.com/introduction/Client_Auth.html",
     "keywords": ["akamai", "open", "edgegrid", "authentication", "client"],
     "type": "library",
@@ -15,7 +15,7 @@
         "php": ">=8.1",
         "akamai-open/edgegrid-auth": "2.0.0",
         "guzzlehttp/guzzle": "^7.5.0",
-        "psr/log": "^1|^2|^3.0",
+        "psr/log": "^1|^2|^3",
         "monolog/monolog": "^2.0",
         "league/climate": "~3.2"
     },
